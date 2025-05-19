@@ -17,4 +17,4 @@ Este es un **Conversor de Monedas** desarrollado en Java para el curso de Backen
    git clone https://github.com/LucianaC9/conversor-monedas.git
 
 ## Vista previa de la aplicación
-![Vista previa](assets-demo.gif)
+![Vista previa] (demo.gif)
