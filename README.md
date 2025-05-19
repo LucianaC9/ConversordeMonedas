@@ -1,6 +1,6 @@
 # Conversor de Monedas 💰
 
-Este es un **Conversor de Monedas** desarrollado en Java para el curso de Backend de Alura Latam, que permite convertir entre diferentes divisas utilizando datos en tiempo real desde la API de *ExchangeRate-API*. También cuenta con una **interfaz gráfica** en Swing para facilitar su uso.
+Este es un **Conversor de Monedas** desarrollado en Java para el curso de Backend de Alura Latam y OracleNextEducation, que permite convertir entre diferentes divisas utilizando datos en tiempo real desde la API de *ExchangeRate-API*. También cuenta con una **interfaz gráfica** en Swing para facilitar su uso.
 
 ## 📌 Características
 - Conversión entre múltiples monedas: **USD, ARS, BOB, BRL, CLP, COP, EUR, GBP, JPY, CNY, CHF, CAD, AUD, MXN, INR**.
